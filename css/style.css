@@ -1,0 +1,117 @@
+a {
+	color:#FF6D35;
+}
+a:hover {
+	color:#fff;
+	background: none;
+}
+h1 {
+	margin-top: 0;
+}
+.og-details p {
+	font-size:16px;
+	color:#fff;
+	padding:20px 0;
+}
+.og-details a {
+	font-size:16px;
+}
+.og-expander {
+	background: #6991ac;
+}
+.og-expander-inner {
+	padding-top:50px;
+}
+.og-details a.link-button {
+	background:#67727a;
+	border: none;
+	color:#fff !important;
+	text-shadow: none;
+}
+.og-details a:hover {
+	background: none;
+}
+.og-details .infosep {
+	border:none;
+}
+.elastislide-wrapper {
+	background: #c3d7df;
+	box-shadow: none;
+}
+.glyphicon-eye-open, .glyphicon-wrench {
+    font-size: 50px;
+    padding-bottom:15px;
+}
+.glyphicon {
+	color:#c3d7df;
+}
+.glyphicon-plus {
+	color:#d75c37;
+	font-size:30px;
+	padding: 0 15px;
+}
+.section {
+	padding:100px 0;
+	text-align: center;
+}
+.pad {
+	padding-bottom: 35px;
+}
+.one {
+	text-align: center;
+	background: #67727a;
+}
+.one h1 {
+	color:#f5f5f5;
+	font-size:50px;
+}
+.one b {
+	color:#FF6D35;
+}
+.one h2 {
+	color:#c3d7df;
+}
+.two {
+	color:#6991ac;
+}
+.big {
+	padding:100px;
+}
+.three {
+	color:#fff;
+	background: #c3d7df;
+}
+.four {
+	color:#6991ac;
+	background: #f5f5f5;
+}
+.five {
+	background: #67727a;
+}
+.footer {
+	padding:50px 0;
+	text-align: center;
+	font-size: 18px;
+}
+.five h1 {
+	color:#f5f5f5;
+}
+.five h2 {
+	font-size: 15px;
+}
+.blogcontainer {
+    width: 960px;
+}
+@media (max-width:960px){ {
+	.blogcontainer {
+    width: 700px;
+    margin: auto;
+}
+}
+.blog {
+	text-align: left;
+}
+.blog h1 {
+	color:#6991ac;
+
+}
